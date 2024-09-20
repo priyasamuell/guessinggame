@@ -1,2 +1,2 @@
 # solarsystemquiz
-A quiz about the solar system
+A quiz about the solar system.
